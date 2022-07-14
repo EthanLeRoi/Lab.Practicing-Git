@@ -1,0 +1,17 @@
+[2022-07-12 14:30:53.140] [exthost] [info] Extension host with pid 778 started
+[2022-07-12 14:30:53.160] [exthost] [info] Lock '/home/ethan/.vscode-server/data/User/workspaceStorage/7fdab328111468362d83216b30e11a01/vscode.lock': Lock acquired.
+[2022-07-12 14:30:53.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-12 14:30:53.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-12 14:30:53.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-12 14:30:53.270] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-12 14:30:53.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 14:30:53.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 14:30:53.328] [exthost] [info] Eager extensions activated
+[2022-07-12 14:30:58.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-07-12 14:32:01.282] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-12 14:32:32.378] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 14:32:37.638] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-12 14:32:37.673] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+[2022-07-12 14:34:09.607] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-12 14:34:09.607] [exthost] [info] Lock '/home/ethan/.vscode-server/data/User/workspaceStorage/7fdab328111468362d83216b30e11a01/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-12 14:34:09.623] [exthost] [info] Extension host with pid 778 exiting with code 0

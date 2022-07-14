@@ -1,0 +1,26 @@
+[2022-07-12T19:30:58.238Z] Log level: Info
+[2022-07-12T19:30:58.240Z] [info] Validating found git in: git
+[2022-07-12T19:30:58.265Z] [info] Using git 2.25.1 from git
+[2022-07-12T19:30:58.309Z] > git rev-parse --show-toplevel [34ms]
+[2022-07-12T19:30:58.334Z] > git rev-parse --git-dir --git-common-dir [18ms]
+[2022-07-12T19:30:58.341Z] [info] Open repository: /mnt/c/Users/creep/Course_Work/Lab.Whack-a-mole
+[2022-07-12T19:30:58.476Z] > git status -z -uall [129ms]
+[2022-07-12T19:30:58.514Z] > git symbolic-ref --short HEAD [35ms]
+[2022-07-12T19:30:58.601Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [83ms]
+[2022-07-12T19:30:58.624Z] > git remote --verbose [17ms]
+[2022-07-12T19:30:58.658Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [54ms]
+[2022-07-12T19:30:58.681Z] > git config --get commit.template [16ms]
+[2022-07-12T19:30:58.789Z] > git status -z -uall [103ms]
+[2022-07-12T19:30:58.824Z] > git symbolic-ref --short HEAD [32ms]
+[2022-07-12T19:30:58.887Z] > git check-ignore -v -z --stdin [17ms]
+[2022-07-12T19:30:58.906Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [80ms]
+[2022-07-12T19:30:58.928Z] > git remote --verbose [17ms]
+[2022-07-12T19:30:58.960Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [52ms]
+[2022-07-12T19:30:58.980Z] > git config --get commit.template [15ms]
+[2022-07-12T19:31:11.794Z] > git check-ignore -v -z --stdin [22ms]
+[2022-07-12T19:32:01.501Z] > git ls-files --stage -- /mnt/c/Users/creep/Course_Work/Lab.Whack-a-mole/index.html [17ms]
+[2022-07-12T19:32:01.535Z] > git show --textconv :index.html [56ms]
+[2022-07-12T19:32:01.547Z] > git cat-file -s 13cab8542ea75ac9f0f9d0b0027c0c964054db1b [43ms]
+[2022-07-12T19:33:08.742Z] > git ls-files --stage -- /mnt/c/Users/creep/Course_Work/Lab.Whack-a-mole/index.html [14ms]
+[2022-07-12T19:33:08.768Z] > git show --textconv :index.html [45ms]
+[2022-07-12T19:33:08.785Z] > git cat-file -s 13cab8542ea75ac9f0f9d0b0027c0c964054db1b [40ms]

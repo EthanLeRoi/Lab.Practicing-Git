@@ -1,0 +1,62 @@
+[2022-07-12 14:30:52.024] [remoteagent] [info] Extension host agent started.
+[2022-07-12 14:30:52.160] [remoteagent] [info] [127.0.0.1][fb1399d3][ManagementConnection] New connection established.
+[2022-07-12 14:30:52.361] [remoteagent] [info] [127.0.0.1][614beb27][ExtensionHostConnection] New connection established.
+[2022-07-12 14:30:52.494] [remoteagent] [info] [127.0.0.1][614beb27][ExtensionHostConnection] <778> Launched Extension Host Process.
+[2022-07-12 14:32:30.323] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-07-12 14:32:30.490] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-07-12 14:32:30.998] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/ethan/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-07-12 14:32:32.095] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.025ba41f-7474-4132-9512-432520855fc9: ritwickdey.liveserver
+[2022-07-12 14:32:32.112] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-07-12 14:32:32.115] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-07-12 14:32:32.116] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-07-12 14:32:35.065] [remoteagent] [info] Getting Manifest... waderyan.nodejs-extension-pack
+[2022-07-12 14:32:35.180] [remoteagent] [info] Installing extension: waderyan.nodejs-extension-pack
+[2022-07-12 14:32:35.345] [remoteagent] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-07-12 14:32:35.426] [remoteagent] [info] Getting Manifest... xabikos.javascriptsnippets
+[2022-07-12 14:32:35.508] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-07-12 14:32:35.650] [remoteagent] [info] Getting Manifest... eg2.vscode-npm-script
+[2022-07-12 14:32:35.797] [remoteagent] [info] Getting Manifest... christian-kohler.npm-intellisense
+[2022-07-12 14:32:35.872] [remoteagent] [info] Getting Manifest... jasonnutter.search-node-modules
+[2022-07-12 14:32:36.011] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-07-12 14:32:36.011] [remoteagent] [info] Installing extension: xabikos.javascriptsnippets
+[2022-07-12 14:32:36.011] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2022-07-12 14:32:36.011] [remoteagent] [info] Installing extension: eg2.vscode-npm-script
+[2022-07-12 14:32:36.011] [remoteagent] [info] Installing extension: christian-kohler.npm-intellisense
+[2022-07-12 14:32:36.011] [remoteagent] [info] Installing extension: jasonnutter.search-node-modules
+[2022-07-12 14:32:36.622] [remoteagent] [info] Downloaded extension: xabikos.javascriptsnippets /home/ethan/.vscode-server/data/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2022-07-12 14:32:36.635] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.824ae819-6c03-4a08-b443-7e48259ee634: xabikos.javascriptsnippets
+[2022-07-12 14:32:36.646] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/xabikos.javascriptsnippets-1.8.0
+[2022-07-12 14:32:36.648] [remoteagent] [info] Extracting completed. xabikos.javascriptsnippets
+[2022-07-12 14:32:36.657] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint /home/ethan/.vscode-server/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6
+[2022-07-12 14:32:36.663] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/ethan/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.1
+[2022-07-12 14:32:36.699] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.2c24fc6a-dd30-4c8d-b790-e13ec07e60e9: dbaeumer.vscode-eslint
+[2022-07-12 14:32:36.711] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6
+[2022-07-12 14:32:36.713] [remoteagent] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-07-12 14:32:36.724] [remoteagent] [info] Downloaded extension: eg2.vscode-npm-script /home/ethan/.vscode-server/data/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.28
+[2022-07-12 14:32:36.753] [remoteagent] [info] Downloaded extension: christian-kohler.npm-intellisense /home/ethan/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.npm-intellisense-1.4.2
+[2022-07-12 14:32:36.761] [remoteagent] [info] Downloaded extension: jasonnutter.search-node-modules /home/ethan/.vscode-server/data/CachedExtensionVSIXs/jasonnutter.search-node-modules-1.3.0
+[2022-07-12 14:32:36.796] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.25b7279b-54f0-46ac-8746-210fba23439d: jasonnutter.search-node-modules
+[2022-07-12 14:32:36.811] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/jasonnutter.search-node-modules-1.3.0
+[2022-07-12 14:32:36.816] [remoteagent] [info] Extracting completed. jasonnutter.search-node-modules
+[2022-07-12 14:32:36.835] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.0ab29e56-8c46-4d0f-927d-3b61b0ce65c7: christian-kohler.path-intellisense
+[2022-07-12 14:32:36.847] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.1
+[2022-07-12 14:32:36.850] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-07-12 14:32:36.859] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.2b3b767e-2785-4998-82a5-a032fe3fa683: eg2.vscode-npm-script
+[2022-07-12 14:32:36.878] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/eg2.vscode-npm-script-0.3.28
+[2022-07-12 14:32:36.881] [remoteagent] [info] Extracting completed. eg2.vscode-npm-script
+[2022-07-12 14:32:36.891] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.14f206b6-0305-4754-b13b-3b5df55907a0: christian-kohler.npm-intellisense
+[2022-07-12 14:32:36.903] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/christian-kohler.npm-intellisense-1.4.2
+[2022-07-12 14:32:36.904] [remoteagent] [info] Extracting completed. christian-kohler.npm-intellisense
+[2022-07-12 14:32:37.282] [remoteagent] [info] Downloaded extension: waderyan.nodejs-extension-pack /home/ethan/.vscode-server/data/CachedExtensionVSIXs/waderyan.nodejs-extension-pack-0.1.9
+[2022-07-12 14:32:37.295] [remoteagent] [info] Extracted extension to /home/ethan/.vscode-server/extensions/.e7156f21-8310-4cd9-b2d2-3b43769d2ac4: waderyan.nodejs-extension-pack
+[2022-07-12 14:32:37.304] [remoteagent] [info] Renamed to /home/ethan/.vscode-server/extensions/waderyan.nodejs-extension-pack-0.1.9
+[2022-07-12 14:32:37.306] [remoteagent] [info] Extracting completed. waderyan.nodejs-extension-pack
+[2022-07-12 14:32:37.306] [remoteagent] [info] Extension installed successfully: xabikos.javascriptsnippets
+[2022-07-12 14:32:37.306] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-07-12 14:32:37.306] [remoteagent] [info] Extension installed successfully: jasonnutter.search-node-modules
+[2022-07-12 14:32:37.306] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-07-12 14:32:37.307] [remoteagent] [info] Extension installed successfully: eg2.vscode-npm-script
+[2022-07-12 14:32:37.307] [remoteagent] [info] Extension installed successfully: christian-kohler.npm-intellisense
+[2022-07-12 14:32:37.307] [remoteagent] [info] Extension installed successfully: waderyan.nodejs-extension-pack
+[2022-07-12 14:34:09.625] [remoteagent] [info] [127.0.0.1][fb1399d3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-12 14:34:09.679] [remoteagent] [info] [127.0.0.1][614beb27][ExtensionHostConnection] <778> Extension Host Process exited with code: 0, signal: null.
